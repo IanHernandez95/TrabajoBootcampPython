@@ -7,7 +7,7 @@ Comentar debidamente el código para que sea comprensible por un tercero.
 El programa tiene tres partes: manejo de bodega, información clientes y sistema de envío.
 Cada parte debe entregarse en un script diferente.
 
-Manejo de bodega
+MANEJO DE BODEGA
 
 ● Guarde la información de los productos en una bodega virtual.
 
@@ -28,6 +28,8 @@ cada producto.
 ● Verificar si un producto tiene menos de 400 unidades y enviar una alerta.
 Información clientes
 
+INFORMACION DE CLIENTES
+
 ● Debe crear una base de datos que tenga información de clientes: ID, nombre, apellido, edad y
 contraseña. Cree 4 clientes iniciales para probar el programa.
 
@@ -37,7 +39,7 @@ contraseña. Cree 4 clientes iniciales para probar el programa.
 - la tercera debe mostrar toda la información por cliente.
 
 
-Sistema de envío
+SISTEMA DE ENVIO
 
 ● El sistema de envío debe ser un programa que pregunta qué tipo de envío es necesario (Rápido
 o largo)
